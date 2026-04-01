@@ -1,8 +1,8 @@
 class Aistatus < Formula
   desc "Check AI service status from the command line"
   homepage "https://github.com/MathisDetourbet/AIStatus"
-  url "https://github.com/MathisDetourbet/AIStatus/releases/download/v0.3.0/aistatus-0.3.0-macos-universal.tar.gz"
-  sha256 "cf6ae6d4f13a161598ce60a62ea48c6e0b1a944079f9a523a55022e67549d9d3"
+  url "https://github.com/MathisDetourbet/AIStatus/releases/download/v0.4.0/aistatus-0.4.0-macos-universal.tar.gz"
+  sha256 "f691832df05a3c9e1c8ec76c4bdb1c30ade24bff78c59e2e0467ca144d1c669a"
   license "MIT"
 
   depends_on :macos
