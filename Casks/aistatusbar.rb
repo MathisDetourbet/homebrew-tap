@@ -1,6 +1,6 @@
 cask "aistatusbar" do
-  version "0.5.0"
-  sha256 "10364c26373471d26df27797c004d87a6e599ce00f365ee08ac0264863317c5e"
+  version "0.5.1"
+  sha256 "4a5a06b5e6dc53747fb241d8890bceb07fcba15acd4eb2258c7129d2ce7e6248"
 
   url "https://github.com/MathisDetourbet/AIStatus/releases/download/v#{version}/AIStatusBar-#{version}-macos-universal.zip"
   name "AIStatusBar"
